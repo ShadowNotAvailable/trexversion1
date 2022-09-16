@@ -1,2 +1,1 @@
-# trexversion1
-se creo el sprite, se le agrego animaciones y se precargaron imágenes.
+# PROC11_trex_Etapa0_V4
